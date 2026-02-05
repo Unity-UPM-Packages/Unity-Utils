@@ -1,0 +1,14 @@
+{
+    "name": "com.thelegends.unity.utils",
+    "rootNamespace": "com.thelegends.unity.utils",
+    "references": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

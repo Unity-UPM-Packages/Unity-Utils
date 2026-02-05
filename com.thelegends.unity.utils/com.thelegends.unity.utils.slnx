@@ -1,0 +1,5 @@
+﻿<Solution>
+  <Project Path="com.thelegends.unity.utils.csproj" />
+  <Project Path="com.thelegends.unity.utils.Editor.csproj" />
+  <Project Path="com.thelegends.unity.utils.Tests.csproj" />
+</Solution>
