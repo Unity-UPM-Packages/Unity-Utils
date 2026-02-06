@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/Unity-UPM-Packages/Unity-Utils/compare/v1.0.0...v1.0.1) (2026-02-06)
+
+
+### Bug Fixes
+
+* remove an used packages ([dc13b29](https://github.com/Unity-UPM-Packages/Unity-Utils/commit/dc13b29018893ecdb03af7ce535989475a754dc9))
+
 # 1.0.0 (2026-02-06)
 
 
