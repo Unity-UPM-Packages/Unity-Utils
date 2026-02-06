@@ -1,7 +1,4 @@
-using System;
-using UnityEditor.PackageManager.Requests;
 using UnityEngine;
-using UnityEngine.Networking;
 
 namespace TheLegends.Unity.Utils
 {
