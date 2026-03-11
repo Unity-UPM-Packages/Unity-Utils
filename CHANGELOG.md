@@ -1,3 +1,10 @@
+## [1.0.2](https://github.com/Unity-UPM-Packages/Unity-Utils/compare/v1.0.1...v1.0.2) (2026-03-11)
+
+
+### Bug Fixes
+
+* Add DateTime Utils ([e63b96b](https://github.com/Unity-UPM-Packages/Unity-Utils/commit/e63b96bb3ab53d360382f7e9834980df8f5a36db))
+
 ## [1.0.1](https://github.com/Unity-UPM-Packages/Unity-Utils/compare/v1.0.0...v1.0.1) (2026-02-06)
 
 
